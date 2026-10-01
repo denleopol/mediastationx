@@ -1,0 +1,348 @@
+{
+  "type": "list",
+  "headline": "MSX Hub",
+  "items": [
+    {
+      "type": "separator",
+      "title": "Плееры и лаунчеры"
+    },
+    {
+      "id": "msxplayer-ru",
+      "title": "MSXPlayer v3",
+      "tag": "Плеер",
+      "tagColor": "msx-blue",
+      "action": "content:http://msxplayer.ru"
+    },
+    {
+      "id": "msx-lnka-ru",
+      "title": "MSX LNKA",
+      "tag": "Плеер",
+      "tagColor": "msx-blue",
+      "action": "content:http://msx.lnka.ru"
+    },
+    {
+      "id": "vplay-one",
+      "title": "VPlay",
+      "tag": "Плеер",
+      "tagColor": "msx-blue",
+      "action": "content:http://vplay.one"
+    },
+    {
+      "id": "v4-msxplayer-ru",
+      "title": "MSXPlayer v4",
+      "tag": "Плеер",
+      "tagColor": "msx-blue",
+      "action": "content:http://v4.msxplayer.ru"
+    },
+    {
+      "id": "arkmv-ru",
+      "title": "ARKMV Station",
+      "tag": "Плеер",
+      "tagColor": "msx-blue",
+      "action": "content:http://arkmv.ru"
+    },
+    {
+      "id": "msx-benzac-de",
+      "title": "Launcher MSX",
+      "tag": "Лаунчер",
+      "tagColor": "msx-blue",
+      "action": "content:http://msx.benzac.de"
+    },
+    {
+      "id": "launcher-msx-benzac-de",
+      "title": "Launcher MSX (alt)",
+      "tag": "Лаунчер",
+      "tagColor": "msx-blue",
+      "action": "content:http://launcher.msx.benzac.de"
+    },
+    {
+      "type": "separator",
+      "title": "Магазины приложений"
+    },
+    {
+      "id": "msx-appfxml-com",
+      "title": "AppFXML Apps",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.appfxml.com"
+    },
+    {
+      "id": "msx-tiviset-com",
+      "title": "MSX App Store",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.tiviset.com"
+    },
+    {
+      "id": "msx-lh1-in",
+      "title": "Dstore",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.lh1.in"
+    },
+    {
+      "id": "dstore-lh1-in",
+      "title": "Dstore (alt)",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://dstore.lh1.in"
+    },
+    {
+      "id": "dstore-eu5-net",
+      "title": "Dstore (EU5)",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://dstore.eu5.net"
+    },
+    {
+      "id": "msx-noname-h1n-ru",
+      "title": "NoName App Store",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.noname.h1n.ru"
+    },
+    {
+      "id": "msx-nnmtv-site",
+      "title": "NoName (NNMTV)",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.nnmtv.site"
+    },
+    {
+      "id": "msx-cc-ua",
+      "title": "NoName (cc.ua)",
+      "tag": "Магазин",
+      "tagColor": "msx-green",
+      "action": "content:http://msx.cc.ua"
+    },
+    {
+      "type": "separator",
+      "title": "Кино и сериалы"
+    },
+    {
+      "id": "lampa-nnmtv-site",
+      "title": "Lampa (Автозапуск)",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lampa.nnmtv.site"
+    },
+    {
+      "id": "lampa-mx",
+      "title": "Lampa.MX",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lampa.mx"
+    },
+    {
+      "id": "lite-lampa-mx",
+      "title": "Lampa Lite",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lite.lampa.mx"
+    },
+    {
+      "id": "lampa-stream",
+      "title": "Lampa Stream",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lampa.stream"
+    },
+    {
+      "id": "lampa-surge-sh",
+      "title": "Lampa Surge",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lampa.surge.sh"
+    },
+    {
+      "id": "atodo-fun",
+      "title": "Atodo",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://atodo.fun"
+    },
+    {
+      "id": "old-llpp-in",
+      "title": "MOOVIES (old)",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://old.llpp.in"
+    },
+    {
+      "id": "m-llpp-in",
+      "title": "MOOVIES",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://m.llpp.in"
+    },
+    {
+      "id": "vokino-tv",
+      "title": "VoKino",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://vokino.tv"
+    },
+    {
+      "id": "deeplex-cc",
+      "title": "Deeplex",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://deeplex.cc"
+    },
+    {
+      "id": "lg-getstv-ru",
+      "title": "GetsTV",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://lg.getstv.ru"
+    },
+    {
+      "id": "hdgo-me",
+      "title": "HDGO.ME",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://hdgo.me"
+    },
+    {
+      "id": "smrtv-xyz",
+      "title": "AKTER.BLACK",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://smrtv.xyz"
+    },
+    {
+      "id": "kpms-cc",
+      "title": "Kinopub TV",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://kpms.cc"
+    },
+    {
+      "id": "kb-team-club",
+      "title": "KinoBoom MSX",
+      "tag": "Кино",
+      "tagColor": "msx-red",
+      "action": "content:http://kb-team.club"
+    },
+    {
+      "id": "sisi-am",
+      "title": "SISI.AM (18+)",
+      "tag": "18+",
+      "tagColor": "msx-red",
+      "action": "content:http://sisi.am"
+    },
+    {
+      "type": "separator",
+      "title": "IPTV и ТВ"
+    },
+    {
+      "id": "ott-play-com",
+      "title": "OTT-play by Alex",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://ott-play.com"
+    },
+    {
+      "id": "ottp-eu-org",
+      "title": "OTT-play Foss",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://ottp.eu.org"
+    },
+    {
+      "id": "ott-prog4food-eu-org",
+      "title": "OTT-play Foss (alt)",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://ott.prog4food.eu.org"
+    },
+    {
+      "id": "drm-play-com",
+      "title": "DRM-Play",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://drm-play.com"
+    },
+    {
+      "id": "widget-ottplayer-tv",
+      "title": "OttPlayer (загрузчик)",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "link:http://widget.ottplayer.tv"
+    },
+    {
+      "id": "stb-fox-tv-fun",
+      "title": "Fox-IPTV",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://stb.fox-tv.fun"
+    },
+    {
+      "id": "kotiptv-ru",
+      "title": "Kot IPTV (тест)",
+      "tag": "ТВ",
+      "tagColor": "msx-yellow",
+      "action": "content:http://kotiptv.ru"
+    },
+    {
+      "type": "separator",
+      "title": "Интеграции и сервисы"
+    },
+    {
+      "id": "sc-msx-benzac-de",
+      "title": "SoundCloud MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://sc.msx.benzac.de"
+    },
+    {
+      "id": "gd-msx-benzac-de",
+      "title": "Google Drive MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://gd.msx.benzac.de"
+    },
+    {
+      "id": "od-msx-benzac-de",
+      "title": "OneDrive MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://od.msx.benzac.de"
+    },
+    {
+      "id": "db-msx-benzac-de",
+      "title": "Dropbox MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://db.msx.benzac.de"
+    },
+    {
+      "id": "nb-msx-benzac-de",
+      "title": "Node Browser MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://nb.msx.benzac.de"
+    },
+    {
+      "id": "tmdb-msx-benzac-de",
+      "title": "THE MOVIE DB MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://tmdb.msx.benzac.de"
+    },
+    {
+      "id": "ttv-msx-benzac-de",
+      "title": "Twitch MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://ttv.msx.benzac.de"
+    },
+    {
+      "id": "lp-msx-benzac-de",
+      "title": "Lorem Picsum MSX",
+      "tag": "Сервис",
+      "tagColor": "msx-white",
+      "action": "content:http://lp.msx.benzac.de"
+    }
+  ]
+}
