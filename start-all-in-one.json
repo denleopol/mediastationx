@@ -1,0 +1,383 @@
+{
+  "name": "MSX Hub",
+  "version": 1,
+  "pages": [
+    {
+      "id": "menu",
+      "type": "page",
+      "header": {
+        "title": "MSX Hub",
+        "subtitle": "Все порталы в одном месте"
+      },
+      "items": [
+        {
+          "title": "Плееры и лаунчеры",
+          "label": "8 порталов",
+          "icon": "play-circle",
+          "colorLabel": "#E53935",
+          "action": "menu:page:players"
+        },
+        {
+          "title": "Магазины приложений",
+          "label": "9 порталов",
+          "icon": "store",
+          "colorLabel": "#FB8C00",
+          "action": "menu:page:stores"
+        },
+        {
+          "title": "Кино и сериалы",
+          "label": "13 порталов",
+          "icon": "movie",
+          "colorLabel": "#8E24AA",
+          "action": "menu:page:cinema"
+        },
+        {
+          "title": "IPTV и ТВ",
+          "label": "9 порталов",
+          "icon": "live-tv",
+          "colorLabel": "#1E88E5",
+          "action": "menu:page:iptv"
+        },
+        {
+          "title": "Интеграции и сервисы",
+          "label": "8 порталов",
+          "icon": "cloud",
+          "colorLabel": "#43A047",
+          "action": "menu:page:services"
+        }
+      ]
+    },
+    {
+      "id": "players",
+      "type": "page",
+      "header": {
+        "title": "Плееры и лаунчеры",
+        "subtitle": "8 порталов"
+      },
+      "items": [
+        {
+          "title": "MSXPlayer",
+          "label": "msxplayer.ru",
+          "icon": "launch",
+          "action": "execute:msxplayer.ru"
+        },
+        {
+          "title": "MSXPlayer v3",
+          "label": "msxplayer.ru",
+          "icon": "launch",
+          "action": "execute:msxplayer.ru"
+        },
+        {
+          "title": "MSXPlayer v4",
+          "label": "v4.msxplayer.ru",
+          "icon": "launch",
+          "action": "execute:v4.msxplayer.ru"
+        },
+        {
+          "title": "GetsTV",
+          "label": "lg.getstv.ru",
+          "icon": "launch",
+          "action": "execute:lg.getstv.ru"
+        },
+        {
+          "title": "lnka",
+          "label": "msx.lnka.ru",
+          "icon": "launch",
+          "action": "execute:msx.lnka.ru"
+        },
+        {
+          "title": "VPlay",
+          "label": "vplay.one",
+          "icon": "launch",
+          "action": "execute:vplay.one"
+        },
+        {
+          "title": "ARKMV Station",
+          "label": "arkmv.ru",
+          "icon": "launch",
+          "action": "execute:arkmv.ru"
+        },
+        {
+          "title": "Launcher MSX",
+          "label": "launcher.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:launcher.msx.benzac.de"
+        }
+      ]
+    },
+    {
+      "id": "stores",
+      "type": "page",
+      "header": {
+        "title": "Магазины приложений",
+        "subtitle": "9 порталов"
+      },
+      "items": [
+        {
+          "title": "appfxml apps",
+          "label": "msx.appfxml.com",
+          "icon": "launch",
+          "action": "execute:msx.appfxml.com"
+        },
+        {
+          "title": "MSX App Store",
+          "label": "msx.tiviset.com",
+          "icon": "launch",
+          "action": "execute:msx.tiviset.com"
+        },
+        {
+          "title": "lnka apps",
+          "label": "msx.lnka.ru",
+          "icon": "launch",
+          "action": "execute:msx.lnka.ru"
+        },
+        {
+          "title": "Dstore",
+          "label": "dstore.lh1.in",
+          "icon": "launch",
+          "action": "execute:dstore.lh1.in"
+        },
+        {
+          "title": "Dstore (alt)",
+          "label": "dstore.eu5.net",
+          "icon": "launch",
+          "action": "execute:dstore.eu5.net"
+        },
+        {
+          "title": "Dstore (alt2)",
+          "label": "msx.lh1.in",
+          "icon": "launch",
+          "action": "execute:msx.lh1.in"
+        },
+        {
+          "title": "NoName App Store",
+          "label": "msx.noname.h1n.ru",
+          "icon": "launch",
+          "action": "execute:msx.noname.h1n.ru"
+        },
+        {
+          "title": "NoName (alt)",
+          "label": "msx.nnmtv.site",
+          "icon": "launch",
+          "action": "execute:msx.nnmtv.site"
+        },
+        {
+          "title": "NoName (alt2)",
+          "label": "msx.cc.ua",
+          "icon": "launch",
+          "action": "execute:msx.cc.ua"
+        }
+      ]
+    },
+    {
+      "id": "cinema",
+      "type": "page",
+      "header": {
+        "title": "Кино и сериалы",
+        "subtitle": "13 порталов"
+      },
+      "items": [
+        {
+          "title": "Lampa.MX",
+          "label": "lampa.mx",
+          "icon": "launch",
+          "action": "execute:lampa.mx"
+        },
+        {
+          "title": "Lampa.MX Lite",
+          "label": "lite.lampa.mx",
+          "icon": "launch",
+          "action": "execute:lite.lampa.mx"
+        },
+        {
+          "title": "Lampa Stream",
+          "label": "lampa.stream",
+          "icon": "launch",
+          "action": "execute:lampa.stream"
+        },
+        {
+          "title": "Lampa Surge",
+          "label": "lampa.surge.sh",
+          "icon": "launch",
+          "action": "execute:lampa.surge.sh"
+        },
+        {
+          "title": "Автозапуск Лампы",
+          "label": "lampa.nnmtv.site",
+          "icon": "launch",
+          "action": "execute:lampa.nnmtv.site"
+        },
+        {
+          "title": "Atodo",
+          "label": "atodo.fun",
+          "icon": "launch",
+          "action": "execute:atodo.fun"
+        },
+        {
+          "title": "MOOVIES (old)",
+          "label": "old.llpp.in",
+          "icon": "launch",
+          "action": "execute:old.llpp.in"
+        },
+        {
+          "title": "MOOVIES",
+          "label": "m.llpp.in",
+          "icon": "launch",
+          "action": "execute:m.llpp.in"
+        },
+        {
+          "title": "VoKino",
+          "label": "vokino.tv",
+          "icon": "launch",
+          "action": "execute:vokino.tv"
+        },
+        {
+          "title": "Deeplex",
+          "label": "deeplex.cc",
+          "icon": "launch",
+          "action": "execute:deeplex.cc"
+        },
+        {
+          "title": "HDGO.ME",
+          "label": "hdgo.me",
+          "icon": "launch",
+          "action": "execute:hdgo.me"
+        },
+        {
+          "title": "Kinopub TV",
+          "label": "kpms.cc",
+          "icon": "launch",
+          "action": "execute:kpms.cc"
+        },
+        {
+          "title": "KinoBoom MSX",
+          "label": "kb-team.club",
+          "icon": "launch",
+          "action": "execute:kb-team.club"
+        }
+      ]
+    },
+    {
+      "id": "iptv",
+      "type": "page",
+      "header": {
+        "title": "IPTV и ТВ",
+        "subtitle": "9 порталов"
+      },
+      "items": [
+        {
+          "title": "AKTER.BLACK",
+          "label": "smrtv.xyz",
+          "icon": "launch",
+          "action": "execute:smrtv.xyz"
+        },
+        {
+          "title": "OTT-play by Alex",
+          "label": "ott-play.com",
+          "icon": "launch",
+          "action": "execute:ott-play.com"
+        },
+        {
+          "title": "OTT-play Foss",
+          "label": "ottp.eu.org",
+          "icon": "launch",
+          "action": "execute:ottp.eu.org"
+        },
+        {
+          "title": "OTT-play Foss (alt)",
+          "label": "ott.prog4food.eu.org",
+          "icon": "launch",
+          "action": "execute:ott.prog4food.eu.org"
+        },
+        {
+          "title": "DRM-Play",
+          "label": "drm-play.com",
+          "icon": "launch",
+          "action": "execute:drm-play.com"
+        },
+        {
+          "title": "OttPlayer",
+          "label": "widget.ottplayer.tv",
+          "icon": "launch",
+          "action": "execute:widget.ottplayer.tv"
+        },
+        {
+          "title": "Fox-IPTV",
+          "label": "stb.fox-tv.fun",
+          "icon": "launch",
+          "action": "execute:stb.fox-tv.fun"
+        },
+        {
+          "title": "kotiptv (тест)",
+          "label": "kotiptv.ru",
+          "icon": "launch",
+          "action": "execute:kotiptv.ru"
+        },
+        {
+          "title": "SISI.AM (18+)",
+          "label": "sisi.am",
+          "icon": "launch",
+          "action": "execute:sisi.am"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "type": "page",
+      "header": {
+        "title": "Интеграции и сервисы",
+        "subtitle": "8 порталов"
+      },
+      "items": [
+        {
+          "title": "SoundCloud MSX",
+          "label": "sc.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:sc.msx.benzac.de"
+        },
+        {
+          "title": "Google Drive MSX",
+          "label": "gd.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:gd.msx.benzac.de"
+        },
+        {
+          "title": "OneDrive MSX",
+          "label": "od.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:od.msx.benzac.de"
+        },
+        {
+          "title": "Dropbox MSX",
+          "label": "db.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:db.msx.benzac.de"
+        },
+        {
+          "title": "Node Browser MSX",
+          "label": "nb.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:nb.msx.benzac.de"
+        },
+        {
+          "title": "TMDB MSX",
+          "label": "tmdb.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:tmdb.msx.benzac.de"
+        },
+        {
+          "title": "Twitch MSX",
+          "label": "ttv.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:ttv.msx.benzac.de"
+        },
+        {
+          "title": "Lorem Picsum MSX",
+          "label": "lp.msx.benzac.de",
+          "icon": "launch",
+          "action": "execute:lp.msx.benzac.de"
+        }
+      ]
+    }
+  ]
+}
